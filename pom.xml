@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>TransportationBookingSystem_project</artifactId>
 	<name>TransportationBookingSystem_project</name>
+	<version>0.0.1-SNAPSHOT</version>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
