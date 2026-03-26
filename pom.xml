@@ -86,12 +86,6 @@
 </dependency>
 
 
-
-	<dependency>
-			<groupId>com.demo</groupId>
-			<artifactId>maven_sample</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 	<build>
