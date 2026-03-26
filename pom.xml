@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>TransportationBookingSystem_project</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>TransportationBookingSystem_project</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
